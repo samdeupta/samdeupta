@@ -4,6 +4,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=samdeupta&theme=radical&show_icons=true"/>
   </a>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
